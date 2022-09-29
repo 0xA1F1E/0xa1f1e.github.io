@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -laR
+ls -laR /home
+ls -laR /root
